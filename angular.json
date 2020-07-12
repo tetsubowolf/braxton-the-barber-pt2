@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "barber-shop-site"
+    }
+  },
+  "defaultProject": "barber-shop-site",
+  "cli": {
+    "analytics": "394e239d-b3f3-4c58-9842-1a4b57fe4311"
+  }
 }
