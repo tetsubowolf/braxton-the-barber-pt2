@@ -1,0 +1,10 @@
+header {
+    background-color: burlywood;
+}
+h1 {
+    font-weight: bold;
+}
+nav{
+    flex-flow: row;
+
+}
