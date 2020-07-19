@@ -1,7 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Arapey&family=Khula&family=Noto+Serif+SC:wght@500&family=Ramabhadra&display=swap');
 
-
+header{
+    background-color: #8a0c0c;
+    color: #f8f8ff;
+    
+}
+nav {
+    background-color: #8a0c0c;
+    color: #f8f8ff;  
+    margin-bottom: 0%;  
+}
 h1 {
     font-weight: bold;
+    font-family: 'Noto Serif SC', serif;
 }
 ul{
     flex: row;
@@ -10,5 +21,7 @@ li{
     list-style: none;
 }
 a{ 
-    color: black;
+    color: #f8f8ff;
 }
+
+
