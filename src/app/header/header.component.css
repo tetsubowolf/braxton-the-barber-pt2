@@ -1,27 +1,39 @@
-@import url('https://fonts.googleapis.com/css2?family=Arapey&family=Khula&family=Noto+Serif+SC:wght@500&family=Ramabhadra&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Zetta&family=Montserrat&family=Open+Sans+Condensed:wght@300&family=Red+Rose&display=swap');
 
 header{
     background-color: #8a0c0c;
     color: #f8f8ff;
-    
+    margin-bottom: .3em;
+    margin-top: .3em;
 }
 nav {
     background-color: #8a0c0c;
     color: #f8f8ff;  
     margin-bottom: 0%;  
+    display: flex;
 }
 h1 {
-    font-weight: bold;
-    font-family: 'Noto Serif SC', serif;
+    
+    font-family: 'Lexend Zetta', sans-serif;
+    margin-left: .7em;
+    margin-top: .3em;
 }
 ul{
-    flex: row;
+    background-color: #8a0c0c;
+    margin-bottom: 0em;
+    margin-top: 1.4em;
+    justify-content: flex-end;
+    margin-right: 1em;
 }
 li{
     list-style: none;
+    margin-right: 1em;
 }
 a{ 
     color: #f8f8ff;
+    display: inline;
+    font-size: 1em;
+    font-family: 'Lexend Zetta', sans-serif;
 }
 
 
