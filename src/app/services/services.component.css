@@ -15,3 +15,16 @@ body, html {
     margin-top: 0em;
     vertical-align: top;
 }
+.container{
+    color: #f8f8ff;
+    background-color:  rgba(0, 0, 255, 0.767);
+}
+.col-4 {
+    width: 4em;
+    height: 4em;
+    
+}
+img {
+    width: 4em;
+    height: 4em;
+}

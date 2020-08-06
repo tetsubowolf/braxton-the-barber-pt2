@@ -4,6 +4,7 @@ body, html {
     height: 100%;
     width: auto;
     margin: 0em;
+    color: #f8f8ff; 
 }
 .hero-image {
     background-image: url(../../assets/images/tim-mossholder-q49oU8NeOHQ-unsplash.jpg);
@@ -14,4 +15,28 @@ body, html {
     height: 35em;
     margin-top: 0em;
     vertical-align: top;
+}
+a {
+    font-style: bold;
+    color: rgb(247, 228, 151);
+    
+}
+.buffer {
+    height: 5em;
+    width: 100%;
+}
+.banner {
+    border: #f8f8ff solid;
+    background-color: rgba(0, 0, 255, 0.767);
+    padding: 1.5em;
+    font-family: 'Lexend Zetta', sans-serif;
+    font-size: 1em;
+    flex-direction: center;
+}
+.row {
+    justify-content: center;
+}
+h2 {
+    font-weight: bold;
+    border-bottom: #f8f8ff solid;
 }
