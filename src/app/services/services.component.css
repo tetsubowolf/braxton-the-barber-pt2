@@ -32,7 +32,7 @@ body, html {
     background-color:  rgba(0, 0, 255, 0.767);
     margin: 2em;
     border: solid #f8f8ff;
-    justify-self: center;
+    padding: 2em;
 }
 
 
