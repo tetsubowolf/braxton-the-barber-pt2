@@ -39,4 +39,5 @@ a {
 h2 {
     font-weight: bold;
     border-bottom: #f8f8ff solid;
+    padding-bottom: 1em;
 }

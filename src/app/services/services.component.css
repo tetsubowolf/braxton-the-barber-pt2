@@ -11,20 +11,28 @@ body, html {
     background-repeat: no-repeat; 
     background-size: cover;
     width: 100%;
-    height: 35em;
+    height: 50em;
     margin-top: 0em;
     vertical-align: top;
+    font-family: 'Lexend Zetta', sans-serif;
+    color: #f8f8ff;
 }
 .container{
     color: #f8f8ff;
     background-color:  rgba(0, 0, 255, 0.767);
 }
+
 .col-4 {
-    width: 4em;
-    height: 4em;
+    width: 10em;
+    height: 5em;
+   
+}    
     
+.price{
+    background-color:  rgba(0, 0, 255, 0.767);
+    margin: 2em;
+    border: solid #f8f8ff;
+    justify-self: center;
 }
-img {
-    width: 4em;
-    height: 4em;
-}
+
+
