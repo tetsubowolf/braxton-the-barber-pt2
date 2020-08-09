@@ -126,7 +126,7 @@
           "builder": "@netlify-builder/deploy:deploy",
           "options": {
             "outputPath": "dist/barber-shop-site",
-            "netlifyToken": "",
+            "netlifyToken": "4bfb920e640313b3b8fbea010bff3ebba21f96468f00d33426ead355e5096466",
             "siteId": "bdb99bf1-3fba-4f83-9874-46dc25aa025b"
           }
         }
