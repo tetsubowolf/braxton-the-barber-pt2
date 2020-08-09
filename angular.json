@@ -121,6 +121,14 @@
               "devServerTarget": "barber-shop-site:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@netlify-builder/deploy:deploy",
+          "options": {
+            "outputPath": "dist/barber-shop-site",
+            "netlifyToken": "",
+            "siteId": "bdb99bf1-3fba-4f83-9874-46dc25aa025b"
+          }
         }
       }
     }
