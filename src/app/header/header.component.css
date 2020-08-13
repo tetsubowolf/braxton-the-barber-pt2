@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Lexend+Zetta&family=Montserrat&family=Open+Sans+Condensed:wght@300&family=Red+Rose&display=swap');
 
+*{
+    margin: 0;
+    padding: 0;
+}
 header{
     background-color: #8a0c0c;
     color: #f8f8ff;
@@ -9,7 +13,7 @@ header{
 nav {
     background-color: #8a0c0c;
     color: #f8f8ff;  
-    margin-bottom: 0%;  
+    margin-bottom: .3em;  
     display: flex;
 }
 h1 {
@@ -17,6 +21,7 @@ h1 {
     font-family: 'Lexend Zetta', sans-serif;
     margin-left: .7em;
     margin-top: .3em;
+    margin-bottom: .3em;
 }
 ul{
     background-color: #8a0c0c;
@@ -35,5 +40,7 @@ a{
     font-size: 1em;
     font-family: 'Lexend Zetta', sans-serif;
 }
+
+
 
 

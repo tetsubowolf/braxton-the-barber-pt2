@@ -1,9 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Lexend+Zetta&family=Montserrat&family=Open+Sans+Condensed:wght@300&family=Red+Rose&display=swap');
 
-body, html {
-    height: 100%;
-    width: auto;
-    margin: 0em;
+*{
+    margin: 0;
+    padding: 0;
 }
 .hero-image {
     background-image: url(../../assets/images/tim-mossholder-q49oU8NeOHQ-unsplash.jpg);
@@ -11,17 +10,16 @@ body, html {
     background-repeat: no-repeat; 
     background-size: cover;
     width: 100%;
-    height: 35em;
+    height: 36em;
     margin-top: 0em;
     vertical-align: top;
-
 }
 .buffer{
     height: 5em;
     width: 100%;
 }
 .jumbotron {
-    height: 20em;
+    height: 21em;
     padding: 0;
     background-color: rgba(0, 0, 255, 0.767);
     filter: grayscale(0%);
@@ -34,7 +32,7 @@ body, html {
 }
 
 img {
-    height: 17em;
+    height: 18em;
     width: 20em;
     margin-top: 1.5em;
     filter: grayscale(0%);
@@ -43,6 +41,13 @@ img {
 
 .col-8{
     margin-top: 1.5em;
+    color: #f8f8ff;
+    font-family: 'Lexend Zetta', sans-serif;
+
+}
+h3 {
+    font-style: bold;
+    margin-bottom: .4em;
 }
 p {
     color: #f8f8ff;
